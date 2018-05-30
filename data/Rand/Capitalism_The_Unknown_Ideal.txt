@@ -1,0 +1,2043 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- __ _ _ _ __| |_ (_)__ _____
+    / _` | '_/ _| ' \| |\ V / -_)
+    \__,_|_| \__|_||_|_| \_/\___| -->
+  <head>
+    <title>Full text of &quot;Capitalism The Unknown Ideal&quot;</title>
+
+          <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <script>window.archive_setup=[]</script>
+        <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
+            <script src="//archive.org/includes/analytics.js?v=4e7031f" type="text/javascript"></script>
+
+    <script>
+      'use strict';
+      if ('archive_analytics' in window) {
+                  archive_analytics.service = "ao_2";
+        
+        archive_analytics.send_pageview_on_load({
+                      mediaType: "texts",
+                  });
+      }
+    </script>
+        <script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
+    <script src="https://archive.org/includes/node_modules/react/dist/react.min.js?v15.1.0" type="text/javascript"></script>
+    <script src="https://archive.org/includes/node_modules/react-dom/dist/react-dom.min.js?v15.1.0" type="text/javascript"></script>
+    <script src="https://archive.org/includes/polyfill.min.js?v=4e7031f" type="text/javascript"></script>
+    <script src="https://archive.org/includes/archive.min.js?v=4e7031f" type="text/javascript"></script>
+    <link href="//archive.org/includes/archive.min.css?v=4e7031f" rel="stylesheet" type="text/css"/>
+    <link rel="SHORTCUT ICON" href="https://archive.org/images/glogo.jpg"/>
+      </head>
+  <body class="navia ">
+    <a href="#maincontent" class="hidden-for-screen-readers">Skip to main content</a>
+
+    <!-- Wraps all page content -->
+    <div id="wrap"
+          >
+              
+
+        <div id="navwrap1">
+          <div id="navwrap2">
+
+            <div id="nav-tophat" class="collapse">
+                                                                <div class="row toprow web" style="max-width:1000px;margin:auto;">
+                    <div class="col-xs-12">
+                      <div class="wayback-txt">
+                        Search the history of over 327 billion                        <a style="display:inline"
+                          href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/"
+                          >web pages</a> on the Internet.
+                      </div>
+                      <div class="roundbox7 wayback-main">
+                        <div class="row">
+                          <div class="col-sm-6" style="padding-left:0; padding-right:0;">
+                            <a style="padding-bottom:0" href="https://archive.org/web/"
+                              ><img src="https://archive.org/images/WaybackLogoSmall.png" alt="Wayback Machine"/></a>
+                          </div>
+                          <div class="col-sm-6" style="padding-top:13px;">
+                            <form style="position:relative;">
+                              <span class="iconochive-search"  aria-hidden="true"></span><span class="sr-only">search</span>                              <label for="nav-wb-url" class="sr-only">Search the Wayback Machine</label>
+                              <input id="nav-wb-url" class="form-control input-sm roundbox20" type="text"
+                                placeholder="enter URL or keywords" name="url" autocomplete="off"
+                                onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()"/>
+                            </form>
+                          </div>
+                        </div><!--/.row-->
+                      </div><!--/.wayback-main-->
+                    </div>
+                  </div><!--./row-->
+
+                                                                                <div class="row toprow fivecolumns texts">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                            <a href="https://archive.org/details/texts"><span class="iconochive-texts"  aria-hidden="true"></span><span class="sr-only">texts</span> All Texts</a>
+                            <a href="https://archive.org/search.php?query=mediatype:texts&sort=-publicdate"
+                              ><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a>                                                          <a href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a>                                                          <a href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a>                                                          <a href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a>                                                          <a href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a
+            href="https://archive.org/details/texts"
+            style="background-image: url('https://archive.org/services/img/texts');"
+            aria-hidden="true"
+            data-event-click-tracking="DetailsPage|CollectionLink"
+          ></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/texts">eBooks &amp; Texts</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/americana" title="American Libraries">American Libraries</a>                                                          <a href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a>                                                          <a href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a>                                                          <a href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a>                                                          <a href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a>                                                          <a href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a>                                                          <a href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center>
+<a href="https://openlibrary.org"><img class="img-responsive" style="margin-bottom:15px" src="https://archive.org/images/widgetOL.png"/><b>Open Library</b></a></center>
+                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                      <a href="https://archive.org/details/publiclab_org" title="Public Lab Collection">Public Lab</a>                                                          <a href="https://archive.org/details/inlibrary" title="Books to Borrow">Books to Borrow</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                                                                <div class="row toprow fivecolumns movies">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                            <a href="https://archive.org/details/movies"><span class="iconochive-movies"  aria-hidden="true"></span><span class="sr-only">movies</span> All Video</a>
+                            <a href="https://archive.org/search.php?query=mediatype:movies&sort=-publicdate"
+                              ><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a>                                                          <a href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a>                                                          <a href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a>                                                          <a href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a
+            href="https://archive.org/details/tv"
+            style="background-image: url('https://archive.org/services/img/tv');"
+            aria-hidden="true"
+            data-event-click-tracking="DetailsPage|CollectionLink"
+          ></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/tv">TV News</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation & Cartoons</a>                                                          <a href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts & Music</a>                                                          <a href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a>                                                          <a href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers & Technology</a>                                                          <a href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural & Academic Films</a>                                                          <a href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a>                                                          <a href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a
+            href="https://archive.org/details/911"
+            style="background-image: url('https://archive.org/services/img/911');"
+            aria-hidden="true"
+            data-event-click-tracking="DetailsPage|CollectionLink"
+          ></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/911">Understanding 9/11</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                      <a href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News & Public Affairs</a>                                                          <a href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality & Religion</a>                                                          <a href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a>                                                          <a href="https://archive.org/details/television" title="Television">Television</a>                                                          <a href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a>                                                          <a href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a>                                                          <a href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                                                                <div class="row toprow fivecolumns audio">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                            <a href="https://archive.org/details/audio"><span class="iconochive-audio"  aria-hidden="true"></span><span class="sr-only">audio</span> All Audio</a>
+                            <a href="https://archive.org/search.php?query=mediatype:audio&sort=-publicdate"
+                              ><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a>                                                          <a href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a>                                                          <a href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a>                                                          <a href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a
+            href="https://archive.org/details/etree"
+            style="background-image: url('https://archive.org/services/img/etree');"
+            aria-hidden="true"
+            data-event-click-tracking="DetailsPage|CollectionLink"
+          ></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/etree">Live Music Archive</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books & Poetry</a>                                                          <a href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a>                                                          <a href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers & Technology</a>                                                          <a href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts & Culture</a>                                                          <a href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News & Public Affairs</a>                                                          <a href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a>                                                          <a href="https://archive.org/details/audio_podcast" title="Podcasts">Podcasts</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a
+            href="https://archive.org/details/librivoxaudio"
+            style="background-image: url('https://archive.org/services/img/librivoxaudio');"
+            aria-hidden="true"
+            data-event-click-tracking="DetailsPage|CollectionLink"
+          ></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                      <a href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a>                                                          <a href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality & Religion</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                                                                <div class="row toprow fivecolumns software">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                            <a href="https://archive.org/details/software"><span class="iconochive-software"  aria-hidden="true"></span><span class="sr-only">software</span> All Software</a>
+                            <a href="https://archive.org/search.php?query=mediatype:software&sort=-publicdate"
+                              ><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a>                                                          <a href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a>                                                          <a href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a>                                                          <a href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a>                                                          <a href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a
+            href="https://archive.org/details/internetarcade"
+            style="background-image: url('https://archive.org/services/img/internetarcade');"
+            aria-hidden="true"
+            data-event-click-tracking="DetailsPage|CollectionLink"
+          ></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a>                                                          <a href="https://archive.org/details/apkarchive" title="APK">APK</a>                                                          <a href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a>                                                          <a href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a>                                                          <a href="https://archive.org/details/ipaarchive" title="IPA Software">IPA Software</a>                                                          <a href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a>                                                          <a href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a
+            href="https://archive.org/details/consolelivingroom"
+            style="background-image: url('https://archive.org/services/img/consolelivingroom');"
+            aria-hidden="true"
+            data-event-click-tracking="DetailsPage|CollectionLink"
+          ></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                      <a href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a>                                                          <a href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a>                                                          <a href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a>                                                          <a href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a>                                                          <a href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a>                                                          <a href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a>                                                          <a href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                                                                <div class="row toprow fivecolumns image">
+
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
+                                                  <div class="linx">
+                            <h5>Featured</h5>
+                            <a href="https://archive.org/details/image"><span class="iconochive-image"  aria-hidden="true"></span><span class="sr-only">image</span> All Image</a>
+                            <a href="https://archive.org/search.php?query=mediatype:image&sort=-publicdate"
+                              ><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
+                                                          <a href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a>                                                          <a href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a>                                                          <a href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a>                                                          <a href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a>                                                      </div>
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a
+            href="https://archive.org/details/metropolitanmuseumofart-gallery"
+            style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"
+            aria-hidden="true"
+            data-event-click-tracking="DetailsPage|CollectionLink"
+          ></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
+                                                  <div class="linx ">
+                                                          <h5>Top</h5>
+                                                                                      <a href="https://archive.org/details/nasa">NASA Images</a>                                                          <a href="https://archive.org/details/solarsystemcollection">Solar System Collection</a>                                                          <a href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a>                                                      </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
+                                                  <div class="widgets">
+                            <center class="items_list">        <div class="items_list_img">
+          <a
+            href="https://archive.org/details/brooklynmuseum"
+            style="background-image: url('https://archive.org/services/img/brooklynmuseum');"
+            aria-hidden="true"
+            data-event-click-tracking="DetailsPage|CollectionLink"
+          ></a>
+        </div>
+        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center>                          </div><!--/.widgets-->
+
+                                              </div><!--/.col-sm-2-->
+                                                                <div class="col-sm-2 col-xs-7">
+                                                  <div class="linx linx-topped">
+                                                                                  </div>
+
+                          
+                                              </div><!--/.col-sm-2-->
+                    
+                  </div><!--/.row-->
+                                          </div><!--/#nav-tophat-->
+
+
+
+            <div class="navbar navbar-inverse navbar-static-top" role="navigation">
+              <div id="nav-tophat-helper" class="hidden-xs"></div>
+              <ul class="nav navbar-nav navbar-main">
+                                                    <li class="dropdown dropdown-ia pull-left">
+                    <a title="Web" class="navia-link web" data-top-kind="web"
+                      href="https://archive.org/web/" data-toggle="tooltip"
+                      target="_top" data-placement="bottom"><span class="iconochive-web"  aria-hidden="true"></span><span class="sr-only">web</span></a>
+                  </li>
+                                                    <li class="dropdown dropdown-ia pull-left">
+                    <a title="Texts" class="navia-link texts" data-top-kind="texts"
+                      href="https://archive.org/details/texts" data-toggle="tooltip"
+                      target="_top" data-placement="bottom"><span class="iconochive-texts"  aria-hidden="true"></span><span class="sr-only">texts</span></a>
+                  </li>
+                                                    <li class="dropdown dropdown-ia pull-left">
+                    <a title="Video" class="navia-link movies" data-top-kind="movies"
+                      href="https://archive.org/details/movies" data-toggle="tooltip"
+                      target="_top" data-placement="bottom"><span class="iconochive-movies"  aria-hidden="true"></span><span class="sr-only">movies</span></a>
+                  </li>
+                                                    <li class="dropdown dropdown-ia pull-left">
+                    <a title="Audio" class="navia-link audio" data-top-kind="audio"
+                      href="https://archive.org/details/audio" data-toggle="tooltip"
+                      target="_top" data-placement="bottom"><span class="iconochive-audio"  aria-hidden="true"></span><span class="sr-only">audio</span></a>
+                  </li>
+                                                    <li class="dropdown dropdown-ia pull-left">
+                    <a title="Software" class="navia-link software" data-top-kind="software"
+                      href="https://archive.org/details/software" data-toggle="tooltip"
+                      target="_top" data-placement="bottom"><span class="iconochive-software"  aria-hidden="true"></span><span class="sr-only">software</span></a>
+                  </li>
+                                                    <li class="dropdown dropdown-ia pull-left rightmost">
+                    <a title="Image" class="navia-link image" data-top-kind="image"
+                      href="https://archive.org/details/image" data-toggle="tooltip"
+                      target="_top" data-placement="bottom"><span class="iconochive-image"  aria-hidden="true"></span><span class="sr-only">image</span></a>
+                  </li>
+                
+                <li class="navbar-brand-li"><a class="navbar-brand" href="https://archive.org/"
+                  target="_top"><span class="iconochive-logo"  aria-hidden="true"></span><span class="sr-only">logo</span></a></li>
+
+                <li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
+                  <div class="container-fluid">
+                    <div class="navbar-header">
+                      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                              data-target="#nav-hamburger-menu" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                      </button>
+                      <div class="navbar-collapse collapse" id="nav-hamburger-menu" aria-expanded="false">
+                            <ul id="" class="nav navbar-nav">
+      <li><a target="_top" data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/">ABOUT</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php">CONTACT</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org">BLOG</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects">PROJECTS</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php">HELP</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate">DONATE</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php">JOBS</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php">VOLUNTEER</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php">PEOPLE</a></li>
+    </ul>
+                          </div><!-- /.navbar-collapse -->
+                    </div>
+                  </div><!-- /.container-fluid -->
+                </li>
+
+
+
+
+                                  <li id="nav-search" class="dropdown dropdown-ia pull-right">
+                    <a href="https://archive.org/search.php"
+                      onclick="$(this).parents('#nav-search').find('form').submit(); return false"
+                      aria-hidden="true"
+                    ><span class="iconochive-search"  aria-hidden="true"></span><span class="sr-only">search</span></a>
+                    <div class="searchbar">
+                      <form
+                        class="search-form js-search-form"
+                        method="get"
+                        role="search"
+                        action="https://archive.org/searchresults.php"
+                        target="_top"
+                        data-event-form-tracking="TopNav|SearchForm"
+                        data-wayback-machine-search-url="https://web.archive.org/web/*/"
+                      >
+                        <input
+                          id="search-bar-2"
+                          class="js-search-bar"
+                          placeholder="Search"
+                          type="text"
+                          name="search"
+                          value=""
+                          aria-controls="navbar_search_options"
+                          aria-label="Search the Archive. Filters and Advanced Search available below."
+                        >
+
+                            <div
+              id="navbar_search_options"
+            class="search-options js-search-options"
+      aria-expanded="false"
+      aria-label="Search Options"
+      data-keep-open-when-changed="false"
+    >
+      <fieldset>
+                      <label>
+      <input
+        type="radio"
+        name="sin"
+        value=""
+                  checked
+                      >
+      <span>Search metadata</span>
+    </label>
+                          <label>
+      <input
+        type="radio"
+        name="sin"
+        value="TXT"
+                      >
+      <span>Search text contents</span>
+    </label>
+                          <label>
+      <input
+        type="radio"
+        name="sin"
+        value="TV"
+                      >
+      <span>Search TV news captions</span>
+    </label>
+                          <label>
+      <input
+        type="radio"
+        name="sin"
+        value="WEB"
+                      >
+      <span>Search archived web sites</span>
+    </label>
+                  </fieldset>
+
+              <a
+          href="https://archive.org/advancedsearch.php"
+          class="search-options__advanced-search-link"
+          onclick="return AJS.advanced_search(this)"
+        >Advanced Search</a>
+          </div>
+    
+                            <script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"05/25/2018"}</script>
+    
+                        <input type="submit" value="Search"/>
+                      </form>
+                    </div><!--/.searchbar -->
+                  </li>
+                
+                <li class="dropdown dropdown-ia pull-right">
+                  <a href="https://archive.org/create" _target="top" data-toggle="tooltip" data-placement="bottom"
+                     title="Upload"><span class="iconochive-upload"  aria-hidden="true"></span><span class="sr-only">upload</span></a>
+                </li>
+
+
+                <li class="dropdown dropdown-ia pull-right leftmost">
+                                      <a href="https://archive.org/account/login.php" style="padding-right:0" _target="top"
+                      ><span class="iconochive-person"  aria-hidden="true"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
+                                  </li>
+
+                              </ul>
+
+                  <ul id="nav-abouts" class="">
+      <li><a target="_top" data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/">ABOUT</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php">CONTACT</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org">BLOG</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects">PROJECTS</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php">HELP</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate">DONATE</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php">JOBS</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php">VOLUNTEER</a></li>
+      <li><a target="_top" data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php">PEOPLE</a></li>
+    </ul>
+                </div><!--/.navbar-->
+          </div><!--#navwrap1-->
+        </div><!--#navwrap2-->
+
+        <!-- Begin page content -->
+        <main id="maincontent">
+          <div class="container container-ia">
+
+                  <h1>
+          Full text of "<a href="/details/CapitalismTheUnknownIdeal_201701">Capitalism The Unknown Ideal</a>"
+        </h1>
+        <h2 class="pull-right">
+          <small><a href="/details/CapitalismTheUnknownIdeal_201701">See other formats</a></small>
+        </h2>
+        <br class="clearfix" clear="right"/>
+      <pre>AYN RAND 
+
+
+CAPITALISM: 
+
+THE UNKNOWN IDEAL 
+
+
+With additional articles by 
+NATHANIEL BRANDEN, 
+ALAN GREENSPAN, 
+and ROBERT HESSEN 
+
+
+&lt;Z&gt; 
+
+A SIGNET BOOK 
+
+
+THEORY AND HISTORY 
+
+
+1. WHAT IS CAPITALISM? 
+
+BY AYN RAND 
+
+The disintegration of philosophy in the nineteenth century 
+and its collapse in the twentieth have led to a similar, though 
+much slower and less obvious, process in the course of 
+modern science. 
+
+Today’s frantic development in the field of technology has 
+a quality reminiscent of the days preceding the economic 
+crash of 1929: riding on the momentum of the past, on the 
+unacknowledged remnants of an Aristotelian epistemology, it 
+is a hectic, feverish expansion, heedless of the fact that its 
+theoretical account is long since overdrawn — that in the field 
+of scientific theory, unable to integrate or interpret their own 
+data, scientists are abetting the resurgence of a primitive 
+mysticism. In the humanities, however, the crash is past, the 
+depression has set in, and the collapse of science is all but 
+complete. 
+
+The clearest evidence of it may be seen in such compara- 
+tively young sciences as psychology and political economy. In 
+psychology, one may observe the attempt to study human 
+behavior without reference to the fact that man is conscious. 
+In political economy, one may observe the attempt to study 
+and to devise social systems without reference to man. 
+
+It is philosophy that defines and establishes the epistemolog- 
+ical criteria to guide human knowledge in general and 
+specific sciences in particular. Political economy came into 
+prominence in the nineteenth century, in the era of philoso- 
+phy’s post-Kantian disintegration, and no one rose to check 
+its premises or to challenge its base. Implicitly, uncritically, 
+and by default, political economy accepted as its axioms the 
+fundamental tenets of collectivism. 
+
+The Objectives! Newsletter, November and December 1965. 
+
+11 
+
+
+l 
+
+I 
+
+
+
+
+12 
+
+
+Capitalism: The Unknown Ideal 
+
+Political economists — including the advocates of capital- 
+ism — defined their science as the study of the management or 
+direction or organization or manipulation of a “community’s" 
+or a nation’s “resources." The nature of these “resources" 
+was not defined; their communal ownership was taken for 
+granted — and the goal of political economy was assumed to 
+be the study of how to utilize these “resources” for “the 
+common good.” 
+
+The fact that the principal “resource" involved was man 
+himself, that he was an entity of a specific nature with 
+specific capacities and requirements, was given the most 
+superficial attention, if any. Man was regarded simply as one 
+of the factors of production, along with land, forests, or 
+mines — as one of the less significant factors, since more study 
+was devoted to the influence and quality of these others than 
+to his role or quality. 
+
+Political economy was, in effect, a science starting in 
+midstream: it observed that men were producing and trad- 
+ing, it took for granted that they had always done so and 
+always would — it accepted this fact as the given, requiring no 
+further consideration — and it addressed itself to the problem 
+of how to devise the best way for the “community" to 
+dispose of human effort. 
+
+There were many reasons for this tribal view of man. The 
+morality of altruism was one; the growing dominance of 
+political statism among the intellectuals of the nineteenth 
+century was another. Psychologically, the main reason was 
+the soul-body dichotomy permeating European culture: ma- 
+terial production was regarded as a demeaning task of a 
+lower order, unrelated to the concerns of man’s intellect, a 
+task assigned to slaves or serfs since the beginning of record- 
+ed history. The institution of serfdom had lasted, in one form 
+or another, till well into the nineteenth century; it was 
+abolished, politically, only by the advent of capitalism; politi- 
+cally, but not intellectually. 
+
+TTie concept of man as a free, independent individual 
+profoundly alien to the culture of Europe. It was 
+culture down to its roots; in European thinking, the 
+the entity, the unit, and man was only one of its 
+cells. This applied to rulers and serfs alike: the 
+believed to hold their privileges only by virtue of 
+they rendered to the tribe, services regarded 
+order, namely, armed force or military defense, 
+man was as much chattel of the tribe as a serf: 
+property belonged to the king. It must be 
+
+
+
+
+13 
+
+
+What Is Capitalism? 
+
+the institution of private property, in the full, legal meaning 
+of the term, was brought into existence only by capitalism. In 
+the pre-capitalist eras, private property existed de facto , but 
+not de jure, i.e., by custom and sufferance, not by right or by 
+law. In law and in principle, all property belonged to the 
+head of the tribe, the king, and was held only by his permis- 
+sion, which could be revoked at any time, at his pleasure. 
+(The king could and did expropriate the estates of recalci- 
+trant noblemen throughout the course of Europe’s his- 
+tory.) 
+
+The American philosophy of the Rights of Man was never 
+grasped fully by European intellectuals. Europe’s predomi- 
+nant idea of emancipation consisted of changing the concept 
+of man as a slave of the absolute state embodied by a king, 
+to the concept of man as a slave of the absolute state 
+embodied by “the people” — i.e., switching from slavery to a 
+tribal chief into slavery to the tribe. A non-tribal view of 
+existence could not penetrate the mentalities that regarded 
+the privilege of ruling material producers by physical force as 
+a badge of nobility. 
+
+Thus Europe’s thinkers did not notice the fact that during 
+the nineteenth century, the galley slaves had been replaced by 
+the inventors of steamboats, and the village blacksmiths by 
+the owners of blast furnaces, and they went on thinking in 
+such terms (such contradictions in terms) as “wage slavery” 
+or “the antisocial selfishness of industrialists who take so 
+much from society without giving anything in return”— on 
+the unchallenged axiom that wealth is an anonymous, social, 
+tribal product. 
+
+That notion has not been challenged to this day; it rep- 
+resents the implicit assumption and the base of contemporary 
+political economy. 
+
+As an example of this view and its consequences, I 6hall 
+cite the article on “Capitalism” in the Encyclopaedia Britan- 
+nica. The article gives no definition of its subject; it opens as 
+follows: 
+
+capitalism, a term used to denote the economic sys- 
+tem that has been dominant in the western world 6ince 
+the breakup of feudalism. Fundamental to any system 
+called capitalist are the relations between private own- 
+ers of nonpersonal means of production (land, mines, 
+industrial plants, etc., collectively known as capital) 
+[italics mine] and free but capitalless workers, who sell 
+their labour services to employers. . . . The resulting 
+wage bargains determine the proportion in which the 
+
+
+
+14 
+
+
+Capitalism: The Unknown Ideal 
+
+total product of society will be shared between the class 
+of labourers and the class of capitalist entrepreneurs . 1 
+
+(I quote from Galt’s speech in Atlas Shrugged, from a 
+passage describing the tenets of collectivism: "An industrial- 
+ist — blank-out — there is no such person. A factory is a ‘natu- 
+ral resource,' like a tree, a rock or a mud-puddle.”) 
+
+The success of capitalism is explained by the Britannica as 
+follows: 
+
+Productive use of the “social surplus” was the special 
+virtue that enabled capitalism to outstrip all prior 
+economic systems. Instead of building pyramids and 
+cathedrals, those in command of the social surplus 
+chose to invest in ships, warehouses, raw materials, 
+finished goods and other material forms of wealth. The 
+social surplus was thus converted into enlarged produc- 
+tive capacity. 
+
+This is said about a time when Europe's population sub- 
+sisted in such poverty that child mortality approached fifty 
+percent, and periodic famines wiped out the “surplus” popu- 
+lation which file pre-capitalist economies were unable to feed. 
+Yet, m akin g no distinction between tax-expropriated and 
+industrially produced wealth, the Britannica asserts that it 
+was the surplus wealth of that time that the early capitalists 
+“commanded” and “chose to invest” — and that this invest- 
+ment was the cause of the stupendous prosperity of the age 
+that followed. 
+
+What is a “social surplus”? The article gives no definition 
+or explanation. A “surplus” presupposes a norm; if subsis- 
+tence on a chronic starvation level is above the implied 
+norm, what is that norm? The article does not answer. 
+
+There is, of course, no such thing as a “social surplus.” All 
+wealth is produced by somebody and belongs to somebody. 
+And “the special virtue that enabled capitalism to outstrip all 
+prior economic systems” was freedom (a concept eloquently 
+absent from the Britannlca’s account), which led, not to the 
+expropriation, but to the creation of wealth. 
+
+I shall have more to say later about that disgraceful article 
+(disgraceful on many counts, not the least of which is schol- 
+arship). At this point, I quoted it only as a succinct example 
+of the tribal premise that underlies today's political economy. 
+That premise is shared by the enemies and the champions of 
+capitalism alike; it provides the former with a certain inner 
+
+1 Encyclopaedia Britannica, 1964, VoL IV, pp. 839-845. 
+
+
+
+15 
+
+
+What Is Capitalism? 
+
+consistency, and disarms the latter by a subtle, yet devastat- 
+ing aura of moral hypocrisy — as witness, their attempts to 
+justify capitalism on the ground of “the common good” or 
+“service to the consumer” or “the best allocation of resourc- 
+es.” ( Whose resources?) 
+
+If capitalism is to be understood, it is this tribal premise 
+that has to be checked — and challenged. 
+
+Mankind is not an entity, an organism, or a coral bush. 
+The entity involved in production and trade is man. It is with 
+the study of man — not of the loose aggregate known as a 
+“community” — that any science of the humanities has to 
+begin. 
+
+This issue represents one of the epistemological differences 
+between the humanities and the physical sciences, one of the 
+causes of the former’s well-earned inferiority complex in 
+regard to the latter. A physical science would not permit 
+itself (not yet, at least) to ignore or bypass the nature of its 
+subject Such an attempt would mean: a science of astrono- 
+my that gazed at the sky, but refused to study individual 
+stars, planets, and satellites — or a science of medicine that 
+studied disease, without any knowledge or criterion of 
+health, and took, as its basic subject of study, a hospital as a 
+whole, never focusing on individual patients. 
+
+A great deal may be learned about society by studying 
+man; but this process cannot be reversed: nothing can be 
+learned about man by studying society— by studying the 
+inter-relationships of entities one has never identified or 
+defined. Yet that is the methodology adopted by most politi- 
+cal economists. Their attitude, in effect, amounts to the 
+unstated, implicit postulate: “Man is that which fits economic 
+equations.” Since he obviously does not, this leads to the 
+curious fact that in spite of the practical nature of their 
+science, political economists are oddly unable to relate their 
+abstractions to the concretes of actual existence. 
+
+It leads also to a baffling sort of double standard or double 
+perspective in their way of viewing men and events: if they 
+observe a shoemaker, they find no difficulty in concluding 
+that he fa working in order to make a living; but as political 
+economists, on the tribal premise, they declare that his pur- 
+pose (and duty) fa to provide society with shoes. If they 
+observe a panhandler on a street corner, they identify him as 
+a bum; in political economy, he becomes “a sovereign con- 
+sumer.” If they hear the communist doctrine that all property 
+should belong to the state, they reject it emphatically and 
+feel, sincerely , that they would fight communism to the 
+death; but in political economy, they speak of the govern- 
+
+
+
+16 
+
+
+Capitalism: The Unknown Ideal 
+
+ment’s duty to effect “a fair redistribution of wealth,” and 
+they speak of businessmen as the best, most efficient trustees 
+of the nation’s “natural resources.” 
+
+This is what a basic premise (and philosophical negli- 
+gence) will do; this is what the tribal premise has done. 
+
+To reject that premise and begin at the beginning — in one’s 
+approach to political economy and to the evaluation of 
+various social systems — one must begin by identifying man’s 
+nature, i.e., those essential characteristics which distinguish 
+hi m from all other living species. 
+
+Man’s essential characteristic is his rational faculty. Man's 
+mind is his basic means of survival — his only means of 
+gaining knowledge. 
+
+Man cannot survive, as animals do, by the guidance of 
+mere percepts. . . . He cannot provide for his simplest 
+physical needs without a process of thought. He needs 
+a process of thought to discover how to plant and grow 
+his food or how to make weapons for hunting. His 
+percepts might lead him to a cave, if one is available — 
+nut to build the simplest shelter, he needs a process of 
+thought No percepts and no “instincts” will tell him 
+how to light a fire, how to weave cloth, how to forge 
+tools, how to make a wheel, how to make an airplane, 
+how to perform an appendectomy, how to produce an 
+electric light bulb or an electronic tube or a cyclotron 
+or a box of matches. Yet his life depends on such 
+knowledge — and only a volitional act of his conscious- 
+ness, a process of thought can provide it a 
+
+A process of thought is an enormously complex process of 
+identification and integration, which only an individual min d 
+can perform. There is no such thing as a collective brain. 
+Men can learn from one another, but learning requires a 
+process of thought on the part of every individual student. 
+Men can cooperate in the discovery of new knowledge, but 
+such cooperation requires the independent exercise of his 
+rational faculty by every individual scientist Man is the only 
+living species that can transmit and expand his store of 
+knowledge from generation to generation; but such transmis- 
+sion requires a process of thought on the part of the individu- 
+al recipients. As witness, the breakdowns of civilization, the 
+dark ages in the history of mankind’s progress, when the 
+accumulated knowledge of centuries vanished from the lives 
+of men who were unable, unwilling, or forbidden to think. 
+
+
+• Ayn Rand, “The Objectivist Ethics,” in The Virtue of Selfishness. 
+
+
+
+17 
+
+
+What Is Capitalism? 
+
+In order to sustain its life, every living species has to 
+follow a certain course of action required by its nature. The 
+action required to sustain human life is primarily intellectual: 
+everything man needs has to be discovered by his mind and 
+produced by his effort. Production is the application of rea- 
+son to the problem of survival. 
+
+If some men do not choose to think, they can survive only 
+by imitating and repeating a routine of work discovered by 
+others — but those others had to discover it, or none would 
+have survived. If some men do not choose to think or to 
+work, they can survive (temporarily) only by looting the 
+goods produced by others — but those others had to produce 
+them, or none would have survived. Regardless of what 
+choice is made, in this issue, by any man or by any number 
+of men, regardless of what blind, irrational, or evil course 
+they may choose to pursue — the fact remains that reason is 
+man’s means of survival and that men prosper or fail, survive 
+or perish in proportion to the degree of their rationality. 
+
+Since knowledge, thinking, and rational action are proper- 
+ties of the individual, since the choice to exercise his rational 
+faculty or not depends on the individual, man’s survival 
+requires that those who think be free of the interference of 
+those who don’t. Since men are neither omniscient nor infalli- 
+ble, they must be free to agree or disagree, to cooperate or 
+to pursue their own independent course, each according to 
+his own rational judgment. Freedom is the fundamental re- 
+quirement of man’s mind. 
+
+A rational mind does not work under compulsion; it does 
+not subordinate its grasp of reality to anyone’s orders, direc- 
+tives, or controls; it does not sacrifice its knowledge, its view 
+of the truth, to anyone’s opinions, threats, wishes, plans, or 
+’‘welfare.” Such a mind may be hampered by others, it may 
+be silenced, proscribed, imprisoned, or destroyed; it cannot 
+be forced; a gun is not an argument. (An example and 
+symbol of this attitude is Galileo.) 
+
+It is from the work and the inviolate integrity of such 
+minds — from the intransigent innovators — that all of man- 
+kind’s knowledge and achievements have come. (See The 
+Fountainhead.) It is to such minds that mankind owes its 
+survival. (See Atlas Shrugged.) 
+
+The same principle applies to all men, on every level of 
+ability and ambition. To the extent that a man is guided by 
+his rational judgment, he acts in accordance with the require- 
+ments of his nature and, to that extent, succeeds in achieving 
+a human form of survival and well-being; to the extent that 
+he acts irrationally, he acts as his own destroyer. 
+
+
+
+18 Capitalism: The Unknown Ideal 
+
+The social recognition of man’s rational nature — of the 
+connection between his survival and his use of reason — is the 
+concept of individual rights. 
+
+I shall remind you that “rights” are a moral principle 
+defining and sanctioning a man’s freedom of action in a 
+social context, that they are derived from man’s nature as a 
+rational being and represent a necessary condition of his 
+particular mode of survival. I shall remind you also that the 
+right to life is the source of all rights, including the right to 
+property. 8 
+
+In regard to political economy, this last requires special 
+emphasis: man has to work and produce in order to support 
+his life. He has to support his life by his own effort and by 
+the guidance of his own mind. If he cannot dispose of the 
+product of his effort, he cannot dispose of his effort; if he 
+cannot dispose of his effort, he cannot dispose of his life. 
+Without property rights, no other rights can be practiced. 
+
+Now, bearing these facts in mind, consider the question of 
+what social system is appropriate to man. 
+
+A social system is a set of moral-political-economic princi- 
+ples embodied in a society's laws, institutions, and govern- 
+ment, which determine the relationships, the terms of associ- 
+ation, among the men living in a given geographical area. It 
+is obvious that these terms and relationships depend on an 
+identification of man’s nature, that they would be different if 
+they pertain to a society of rational beings or to a colony of 
+ants. It is obvious that they will be radically different if men 
+deal with one another as free, independent individuals, on the 
+premise that every man is an end in himself — or as members 
+of a pack, each regarding the others as the means to his ends 
+and to the ends of “the pack as a whole.” 
+
+There are only two fundamental questions (or two aspects 
+of the same question) that determine the nature of any social 
+system: Does a social system recognize individual rights? — 
+and: Does a social system ban physical force from human 
+relationships? The answer to the second question is the prac- 
+tical implementation of the answer to the first 
+
+Is man a sovereign individual who owns his person, his 
+mind, his life, his work and its products — or is he the proper- 
+ty of the tribe (the state, the society, the collective) that may 
+dispose of him in any way it pleases, that may dictate his 
+convictions, prescribe the course of his life, control his work 
+and expropriate his products? Does man have the right to 
+
+• For a fuller discussion of rights, I refer you to my articles “Man’s 
+Rights" in the appendix, and “Collectivized ‘Rights’ " in The Virtue of 
+Selfishness. 
+
+
+
+19 
+
+
+What Is Capitalism? 
+
+exist for his own sake — or is he born in bondage, as an 
+indentured servant who must keep buying his life by serving 
+the tribe but can never acquire it free and clear? 
+
+This is the first question to answer. The rest is conse- 
+quences and practical implementations. The basic issue is 
+only: Is man free? 
+
+In mankind’s history, capitalism is the only system that 
+answers: Yes. 
+
+Capitalism is a social system based on the recognition of 
+individual rights, including property rights, in which all prop- 
+erty is privately owned. 
+
+The recognition of individual rights entails the banishment 
+of physical force from human relationships: basically, rights 
+can be violated only by means of force. In a capitalist 
+society, no man or group may initiate the use of physical 
+force against others. The only function of the government, in 
+such a society, is the task of protecting man’s rights, lx., the 
+task of protecting him from physical force; the government 
+acts as the agent of man’s right of self-defense, and may use 
+force only in retaliation and only against those who initiate 
+its use; thus the government is the means of placing the 
+retaliatory use of force under objective control . 4 
+
+It is the basic, metaphysical fact of man’s nature — the 
+connection between his survival and his use of reason — that 
+capitalism recognizes and protects. 
+
+In a capitalist society, all human relationships are volun- 
+tary. Men are free to cooperate or not, to deal with one 
+another or not, as their own individual judgments, convic- 
+tions, and interests dictate. They can deal with one another 
+only in terms of and by means of reason, i.e., by means of 
+discussion, persuasion, and contractual agreement, by volun- 
+tary choice to mutual benefit The right to agree with others 
+is not a problem in any society, it is the right to disagree that 
+is crucial. It is the institution of private property that protects 
+and implements the right to disagree — and thus keeps the 
+road open to man’s most valuable attribute (valuable personal- 
+ly, socially, and objectively ) : the creative mind. 
+
+This is the cardinal difference between capitalism and 
+collectivism. 
+
+The power that determines the establishment, the changes, 
+the evolution, and the destruction of social systems is philoso- 
+phy. The role of chance, accident, or tradition, in this con- 
+text, is the same as their role in the life of an individual: 
+their power stands in inverse ratio to the power of a culture's 
+
+* For a fuller discussion of this subject, see my article “The Nature of 
+Government" in the appendix. 
+
+
+20 
+
+
+Capitalism: The Unknown Ideal 
+
+(or an individual’s) philosophical equipment, and grows as 
+philosophy collapses. It is, therefore, by reference to philoso- 
+phy that the character of a social system has to be defined 
+and evaluated. Corresponding to the four branches of philos- 
+ophy, the four keystones of capitalism are: metaphysically, 
+the requirements of man’s nature and survival — epistemolog- 
+ically, reason — ethically, individual rights — politically, free- 
+dom. 
+
+This, in substance, is the base of the proper approach to 
+political economy and to an understanding of capitalism — not 
+the tribal premise inherited from prehistorical traditions. 
+
+The “practical” justification of capitalism does not lie in 
+the collectivist claim that it effects “the best allocation of 
+national resources.” Man is not a “national resource" and 
+neither is his mind — and without the creative power of man’s 
+intelligence, raw materials remain just so many useless raw 
+materials. 
+
+The moral justification of capitalism does not lie in the 
+altruist claim that it represents the best way to achieve “the 
+common good.” It is true that capitalism docs — if that catch- 
+phrase has any meaning — but this is merely a secondary 
+consequence. The moral justification of capitalism lies in the 
+fact that it is the only system consonant with man’s rational 
+nature, that it protects man’s survival qua man, and that its 
+ruling principle is: justice . 
+
+Every social system is based, explicitly or implicitly, on 
+some theory of ethics. The tribal notion of “the common 
+good” has served as the moral justification of most social 
+systems — and of all tyrannies — in history. The degree of a 
+society’s enslavement or freedom corresponded to the degree 
+to which that tribal slogan was invoked or ignored. 
+
+“The common good” (or “the public interest”) is an un- 
+defined and undefinable concept: there is no such entity as 
+“the tribe” or “the public"; the tribe (or the public or 
+society) is only a number of individual men. Nothing can be 
+good for the tribe as such; “good” and “value” pertain only 
+to a living organism — to an individual living organism — not 
+to a disembodied aggregate of relationships. 
+
+“The common good" is a meaningless concept, unless tak- 
+en literally, in which case its only possible meaning is: the 
+sum of the good of all the individual men involved. But in 
+that case, the concept is meaningless as a moral criterion: it 
+leaves open the question of what is the good of individual 
+men and how does one determine it? 
+
+It is not, however, in its literal meaning that that concept 
+is generally used. It is accepted precisely for its elastic, 
+
+
+
+21 
+
+
+What Is Capitalism? 
+
+undcfinable, mystical character which serves, not as a moral 
+guide, but as an escape from morality. Since the good is not 
+applicable to the disembodied, it becomes a moral blank 
+check for those who attempt to embody it. 
+
+When “the common good" of a society is regarded as 
+something apart from and superior to the individual good of 
+its members, it means that the good of some men takes 
+precedence over the good of others, with those others con- 
+signed to the status of sacrificial animals. It is tacitly as- 
+sumed, in such cases, that “the common good” means “the 
+good of the majority ” as against the minority or the individu- 
+al. Observe the significant fact that that assumption is tacit: 
+even the most collectivized mentalities seem to sense the 
+impossibility of justifying it morally. But “the good of the 
+majority," too, is only a pretense and a delusion: since, in 
+fact, the violation of an individual’s rights means the abroga- 
+tion of all rights, it delivers the helpless majority into the 
+power of any gang that proclaims itself to be “the voice of 
+society” and proceeds to rule by means of physical force, 
+until deposed by another gang employing the same means. 
+
+If one begins by defining the good of individual men, one 
+will accept as proper only a society in which that good is 
+achieved and achievable. But if one begins by accepting “the 
+common good" as an axiom and regarding individual good as 
+its possible but not necessary consequence (not necessary in 
+any particular case), one ends up with such a gruesome 
+absurdity as Soviet Russia, a country professedly dedicated to 
+“the common good," where, with the exception of a minus- 
+cule clique of rulers, the entire population has existed in 
+subhuman misery for over two generations. 
+
+What makes the victims and, worse, the observers accept 
+this and other similar historical atrocities, and still cling to 
+the myth of “the common good”? The answer lies in philoso- 
+phy — in philosophical theories on the nature of moral val- 
+ues. 
+
+There are, in essence, three schools of thought on the 
+nature of the good: the intrinsic, the subjective, and the 
+objective. The intrinsic theory holds that the good is inherent 
+in certain things or actions as such, regardless of their con- 
+text and consequences, regardless of any benefit or injury 
+they may cause to the actors and subjects involved. It is a 
+theory that divorces the concept of “good" from benefici- 
+aries, and the concept of “value" from valuer and purpose — 
+claiming that the good is good in, by, and of itself. 
+
+The subjectivist theory holds that the good bears no rela- 
+tion to the facts of reality, that it is the product of a man’s 
+
+
+
+22 
+
+
+Capitalism: The Unknown Ideal 
+
+consciousness, created by his feelings, desires, “intuitions,” or 
+whims, and that it is merely an “arbitrary postulate” or an 
+“emotional commitment.” 
+
+The intrinsic theory holds that the good resides in some 
+sort of reality, independent of man’s consciousness; the sub- 
+jectivist theory holds that the good resides in man’s con- 
+sciousness, independent of reality. 
+
+The objective theory holds that the good is neither an 
+attribute of “things in themselves” nor of man’s emotional 
+states, but an evaluation of the facts of reality by man’s 
+consciousness according to a rational standard of value. (Ra- 
+tional, in this context, means: derived from the facts of 
+reality and validated by a process of reason.) The objective 
+theory holds that the good is an aspect of reality in relation 
+to man — and that it must be discovered, not invented, by 
+man. Fundamental to an objective theory of values is the 
+question: Of value to whom and for what? An objective 
+theory does not permit context-dropping or “concept- 
+stealing”; it does not permit the separation of “value” from 
+“purpose,” of the good from beneficiaries, and of man's 
+actions from reason. 
+
+Of all the social systems in mankind’s history, capitalism is 
+the only system based on an objective theory of values. 
+
+The intrinsic theory and the subjectivist theory (or a mix- 
+ture of both) are the necessary base of every dictatorship, 
+tyranny, or variant of the absolute state. Whether they are 
+held consciously or subconsciously — in the explicit form of 
+a philosopher’s treatise or in the implicit chaos of its echoes in 
+an average man’s feelings — these theories make it possible 
+for a man to believe that the good is independent of man’s 
+mind and can be achieved by physical force. 
+
+If a man believes that the good is intrinsic in certain 
+actions, he will not hesitate to force others to perform them. 
+If he believes that the human benefit or injury caused by 
+such actions is of no significance, be will regard a sea of 
+blood as of no significance. If he believes that the benefici- 
+aries of such actions are irrelevant (or interchangeable), he 
+will regard wholesale slaughter as his moral duty in the 
+service of a “higher” good. It is the intrinsic theory of values 
+that produces a Robespierre, a Lenin, a Stalin, or a Hitler. It 
+is not an accident that Eichmann was a Kantian. 
+
+If a man believes that the good is a matter of arbitrary, 
+subjective choice, the issue of good or evil becomes, for him, 
+an issue of: my feelings or theirs? No bridge, understanding, 
+or communication is possible to him. Reason is the only 
+means of communication among men, and an objectively 
+
+
+
+What Is Capitalism? 23 
+
+perceivable reality is their only common frame of reference; 
+when these are invalidated (i.e., held to be irrelevant) in the 
+field of morality, force becomes men’s only way of dealing 
+with one another. If the subjectivist wants to pursue some 
+social ideal of his own, he feels morally entitled to force men 
+“for their own good,” since he feels that he is right and that 
+there is nothing to oppose him but their misguided feelings. 
+
+Thus, in practice, the proponents of the intrinsic and the 
+subjectivist schools meet and blend. (They blend in terms of 
+their psycho-epistemology as well: by what means do the 
+moralists of the intrinsic school discover their transcendental 
+“good,” if not by means of special, non-rational intuitions 
+and revelations, i.e., by means of their feelings?) It is doubt- 
+ful whether anyone can hold either of these theories as an 
+actual, if mistaken, conviction. But both serve as a rationaliza- 
+tion of power-lust and of rule by brute force, unleashing the 
+potential dictator and disarming his victims. 
+
+The objective theory of values is the only moral theory 
+incompatible with rule by force. Capitalism is the only system 
+based implicitly on an objective theory of values — and the 
+historic tragedy is that this has never been made explicit 
+
+If one knows that the good is objective — i.e., determined 
+by the nature of reality, but to be discovered by man’s 
+mind — one knows that an attempt to achieve the good by 
+physical force is a monstrous contradiction which negates 
+morality at its root by destroying man’s capacity to recognize 
+the good, i.e. t his capacity to value. Force invalidates and 
+paralyzes a man’s judgment, demanding that be act against it, 
+thus rendering him morally impotent A value which one is 
+forced to accept at the price of surrendering one’s mind, is - 
+not a value to anyone; the forcibly mindless can neither judge 
+nor choose nor value. An attempt to achieve the gocil by 
+force is like an attempt to provide a man with a picture 
+gallery at the price of cutting out his eyes. Values cannot 
+exist (cannot be valued) outside the full context of a man’s 
+life, needs, goals, and knowledge. 
+
+The objective view of values permeates the entire structure 
+of a capitalist society. 
+
+The recognition of individual rights implies the recognition 
+of the fact that the good is not an ineffable abstraction in 
+some supernatural dimension, but a value pertaining to reali- 
+ty, to this earth, to the lives of individual human beings (note 
+the right to the pursuit of happiness). It implies that the good 
+cannot be divorced from beneficiaries, that men are not to be 
+regarded as interchangeable, and that no man or tribe may 
+attempt to achieve the good of some at the price of the 
+
+
+
+Capitalism: The Unknown Ideal 
+
+
+24 
+
+immolation of others. 
+
+The free market represents the social application of an 
+objective theory of values. Since values are to be discovered 
+by man’s mind, men must be free to discover them — to 
+thi nk , to study, to translate their knowledge into physical 
+form, to offer their products for trade, to judge them, and to 
+choose, be it material goods or ideas, a loaf of bread or a 
+philosophical treatise. Since values arc established contextual- 
+ly, every man must judge for himself, in the context of his 
+own knowledge, goals, and interests. Since values are deter- 
+mined by the nature of reality, it is reality that serves as 
+men’s ultimate arbiter: if a man’s judgment is right, the 
+rewards are his; if it is wrong, he is his only victim. 
+
+It is in regard to a free market that the distinction between 
+an intrinsic, subjective, and objective view of values is partic- 
+ularly important to understand. The market value of a prod- 
+uct is not an intrinsic value, not a “value in itself* hanging 
+in a vacuum. A free market never loses sight of the question: 
+Of value to whom ? And, within the broad field of objectivity, 
+the market value of a product does not reflect its philosoph- 
+ically objective value, but only its socially objective value. 
+
+By “philosophically objective,*' I mean a value estimated 
+from the standpoint of the best possible to man, i.e ., by the 
+criterion of the most rational mind possessing the greatest 
+knowledge, in a given category, in a given period, and in a 
+defined context (nothing can be estimated in an undefined 
+context). For instance, it can be rationally proved that the 
+airplane is objectively of immeasurably greater value to man 
+(to man at his best ) than the bicycle— and that the works of 
+Victor Hugo are objectively of immeasurably greater value 
+than true-confession magazines. But if a given man’s intellec- 
+tual potential can barely manage to enjoy true confessions, 
+there is no reason why his meager earnings, the product of 
+his effort, should be spent on books he cannot read— or on 
+subsidizing the airplane industry, if his own transportation 
+needs do not extend beyond the range of a bicycle. (Nor is 
+there any reason why the rest of mankind should be held 
+down to the level of his literary taste, his engineering capaci- 
+ty, and his income. Values are not determined by fiat nor by 
+majority vote.) 
+
+Just as the number of its adherents is not a proof of an 
+idea’s truth or falsehood, of an art work’s merit or demerit, 
+of a product’s efficacy or inefficacy — so the free-market 
+value of goods or services does not necessarily represent their 
+philosophically objective value, but only their socially objec- 
+tive value, i.e., the sum of the individual judgments of all the 
+
+
+
+What /s Ca Pitalism ? 25 
+
+®en involved • 
+
+valued. earh : at a riven time, the sum of what they 
+
+Thus, a nJ D l ? e 00,1 text of his own life, 
+fortune than ^ mactl ^cr of lipstick may weU make a greater 
+can be ration- l.^^ufacturer of microscopes— even though it 
+catty more Va i l. de °*onstrated that microscopes are scientifi- 
+A OJicroscn Ua • than iipstick. But — valuable to whom ? 
+
+Bling to make* of no value to a little stenographer strug- 
+®ean the diffL? Uvia 8'&gt; a lipstick is; a lipstick, to her, may 
+between of nr T rence between self-confidence and 6elf-doubt, 
+This doJ^ n T drudgery. 
+
+Market are T I mean . however, that the values ruling a free 
+^oney on cosm ** the stenographer spends all her 
+
+^’croscope rf metJcs .and has none left to pay for the use of a 
+learns a bctt ° F a v * s, ' t to the doctor) when she needs //, she 
+Market served met b°d of budgeting her income; the free 
+ot bers for her ^ her tc «cher: she has no way to penalize 
+^Pe is alwavs * St ^ CCs ’ ^ she budgets rationally, the micro- 
+sun m ° re - as far aV a f^ le -° serve her own specific needs and 
+support an ern^ ? s be ** concerned: she is not taxed to 
+ship’s journey C r^P'lal* » research laboratory, or a space 
+er &gt; she does L ° ®°on. Within her own productive pow- 
+
+a/k j p g a Part of the cost of scientific achievements, 
+
+OWn life is her Z th^m. She has no “social duty," her 
+
+Ca Pit*list system*^ responsibility — and the only thing that a 
+tequirej; ra u l rc « of her is the thing that nature 
+
+6c fown judgme ****** she live and act to the best of 
+
+
+goods and services offered on a 
+of the best product at the 
+
+
+tapes t price wh . Purveyor 
+
+'7 / “— -not autnmoS ' vins greatest financial rewards in that 
+
+virtue of the f r&lt; &gt; atJca Hy immediately nor by fiat, but by 
+
+rook /o r ^ 5® Market, which teaches every participant to 
+
+compe t e ncc ^ and CtlVe -within the category of his own 
+
+W vf^fona. Penalize® those who act on irrational con- 
+
+0f tJle rnajSf deQ ° 
+
+a ?d &lt;ia, the not - 
+grants, are ^*ceptionaI 
+
+** society to ,t XCepf io 
+
+"*W ^er S' eveI 
+
+s£dJ . «.*" js ? “ a 
+
+rat,0naJ ^ Of Zy Pr £^ 
+
+
+
+
+arket does not level men down 
+*x — that the intellectual criteria 
+free market or a free society — 
+the innovators, the intellectual 
+the majority. In fact, it is the 
+minority who lift the whole of a 
+their own achievements, while 
+
+iT. 
+
+M40UJ process that cannot be held 
+at demands the best (the most 
+rewards him accordingly. While 
+
+
+
+
+26 
+
+
+Capitalism: The Unknown Ideal 
+
+the majority have barely assimilated the value of the automo- 
+bile, the creative minority introduces the airplane. The majority 
+learn by demonstration, the minority is free to demon- 
+strate. The “philosophically objective” value of a new prod- 
+uct serves as the teacher for those who are willing to 
+exercise their rational faculty, each to the extent of his 
+ability. Those who are unwilling remain unrewarded — as well 
+as those who aspire to more than their ability produces. The 
+stagnant, the irrational, the subjectivist have no power to stop 
+their betters. 
+
+(The small minority of adults who are unable rather than 
+unwilling to work, have to rely on voluntary charity; misfor- 
+tune is not a claim to slave labor; there is no such thing as 
+the right to consume, control, and destroy those without 
+whom one would be unable to survive. As to depressions and 
+mass unemployment, they are not caused by the free market, 
+but by government interference into the economy.) 
+
+The mental parasites — the imitators who attempt to cater 
+to what they t hink is the public’s known taste — are constantly 
+being beaten by the innovators whose products raise the 
+public’s knowledge and taste to ever higher levels. It is in this 
+sense that the free market is ruled, not by the consumers, but 
+by the producers. The most successful ones are those who 
+discover new fields of production, fields which had not been 
+known to exist 
+
+A given product may not be appreciated at once, particu- 
+larly if it is too radical an innovation; but, barring irrelevant 
+accidents, it wins in the long run. It is in this sense that the 
+free market is not ruled by the intellectual criteria of the 
+majority, which prevail only at and for any given moment; 
+the free market is ruled by those who are able to see and 
+plan long-range — and the better the mind, the longer the 
+range. 
+
+The economic value of a man’s work is determined, on a 
+free market, by a single principle: by the voluntary consent 
+of those who are willing to trade him their work or products 
+in return. This is the moral meaning of the law of supply and 
+demand; it represents the total rejection of two vicious doc- 
+trines: the tribal premise and altruism. It represents the 
+recognition of the fact that man is not the property nor the 
+servant of the tribe, that a man works in order to support his 
+own life — as, by his nature, he must — that he has to be 
+guided by his own rational self-interest, and if he wants to 
+trade with others, he cannot expect sacrificial victims, i.e. t he 
+cannot expect to receive values without trading commensur- 
+ate values in return. The sole criterion of what is commen- 
+
+
+
+What Is Capitalism? 27 
+
+surate, in this context, is the free, voluntary, uncoerced 
+judgment of the traders. 
+
+The tribal mentalities attack this principle from two seem- 
+ingly opposite sides: they claim that the free market is 
+“unfair" both to the genius and to the average man. The first 
+objection is usually expressed by a question such as: “Why 
+should Elvis Presley make more money than Einstein?” The 
+answer is: Because men work in order to support and enjoy 
+their own lives — and if many men find value in Elvis Presley, 
+they are entitled to spend their money on their own pleasure. 
+Presley’s fortune is not taken from those who do not care for 
+his work (I am one of them) nor from Einstein — nor does 
+he stand in Einstein’s way — nor does Einstein lack proper 
+recognition and support in a free society, on an appropriate 
+intellectual level. 
+
+As to the second objection, the claim that a man of 
+average ability suffers an “unfair” disadvantage on a free 
+market — 
+
+Look past the range of the moment, you who cry that 
+you fear to compete with men of superior intelligence, 
+that their mind is a threat to your livelihood, that the 
+strong leave no chance to the weak in a market of 
+voluntary trade. . . . When you live in a rational soci- 
+ety, where men are free to trade, you receive an 
+incalculable bonus: the material value of your work is 
+determined not only by your effort, but by the effort of 
+the best productive minds who exist in the world 
+around you. . . . 
+
+The machine, the frozen form of a living intelli- 
+gence, is the power that expands the potential of your 
+life by raising the productivity of your time. . . . Every 
+man is free to rise as far as he’s able or willing, but it’s 
+only the degree to which he thinks that determines the 
+degree to which he’ll rise. Physical labor as such can 
+extend no further than the range of the moment The 
+man who does no more than physical labor, consumes 
+the material value-equivalent of his own contribution to 
+the process of production, and leaves no further value, 
+neither for himself nor others. But the man who pro- 
+duces an idea in any field of rational endeavor — the 
+man who discovers new knowledge — is the permanent 
+benefactor of humanity. ... It is only the value of an 
+idea that can be shared with unlimited numbers of 
+men, making all sharers richer at no one’s sacrifice or 
+loss, raising the productive capacity of whatever labor 
+they perform. . . . 
+
+
+
+28 
+
+
+Capitalism: The Unknown Ideal 
+
+In proportion to the mental energy he spent, the man 
+who creates a new invention receives but a small per- 
+centage of his value in terms of material payment, no 
+matter what fortune he makes, no matter what millions 
+he earns. But the man who works as a janitor in the 
+factory producing that invention, receives an enormous 
+payment in proportion to the mental effort that his job 
+requires of him. And the same is true of all men 
+between, on all levels of ambition and ability. The man 
+at the top of the intellectual pyramid contributes the 
+most to all those below him, but gets nothing except his 
+material payment, receiving no intellectual bonus from 
+others to add to the value of his time. The man at the 
+bottom who, left to himself, would starve in his 
+hopeless ineptitude, contributes nothing to those above 
+him, but receives the bonus of all of their brains. Such 
+is the nature of the "competition” between the strong 
+and the weak of the intellect. Such is the pattern of 
+"exploitation’’ for which you have damned the strong. 
+
+C Atlas Shrugged ) 
+
+And such is the relationship of capitalism to man’s mind 
+and to man’s survival. 
+
+The magnificent progress achieved by capitalism in a brief 
+span of time — the spectacular improvement in the conditions 
+of man’s existence on earth — is a matter of historical record. 
+It is not to be hidden, evaded, or explained away by all the 
+propaganda of capitalism’s enemies. But what needs special 
+emphasis is the fact that this progress was achieved by 
+non-sacrificial means. 
+
+Progress cannot be achieved by forced privations, by 
+squeezing a "social surplus” out of starving victims. Progress 
+can come only out of individual surplus , i.e., from the work, 
+the energy, the creative over-abundance of those men whose 
+ability produces more than their personal consumption re- 
+quires, those who are intellectually and financially able to 
+seek the new, to improve on the known, to move forward. In 
+a capitalist society, where such men are free to function and 
+to take their own risks, progress is not a matter of sacrificing 
+to some distant future, it is part of the living present, it is the 
+normal and natural, it is achieved as and while men live — 
+and enjoy — their lives. 
+
+Now consider the alternative — the tribal society, where all 
+men throw their efforts, values, ambitions, and goals into a 
+tribal pool or common pot, then wait hungrily at its rim, 
+while the leader of a clique of cooks stirs it with a bayonet in 
+one hand and a blank check on all their lives in the other. 
+
+
+
+What Is Capitalism? 29 
+
+The most consistent example of such a system is the Union of 
+Soviet Socialist Republics. 
+
+Half a century ago, the Soviet rulers commanded their 
+subjects to be patient, bear privations, and make sacrifices for 
+the sake of "industrializing” the country, promising that this 
+was only temporary, that industrialization would bring them 
+abundance, and Soviet progress would surpass the capitalistic 
+West. 
+
+Today, Soviet Russia is still unable to feed her people — 
+while the rulers scramble to copy, borrow, or steal the 
+technological achievements of the West. Industrialization is 
+not a static goal; it is a dynamic process with a rapid rate of 
+obsolescence. So the wretched serfs of a planned tribal 
+economy, who starved while waiting for electric generators 
+and tractors, are now starving while waiting for atomic 
+power and interplanetary travel. Thus, in a "people’s state,” 
+the progress of science is a threat to the people, and every 
+advance is taken out of the people’s shrinking hides. 
+
+This was not the history of capitalism. 
+
+America’s abundance was not created by public sacrifices 
+to “the common good,” but by the productive genius of free 
+men who pursued their own personal interests and the mak- 
+ing of their own private fortunes. They did not starve the 
+people to pay for America’s industrialization. They gave the 
+people better jobs, higher wages, and cheaper goods with 
+every new machine they invented, with every scientific dis- 
+covery or technological advance — and thus the whole country 
+was moving forward and profiting, not suffering, every step 
+l of the way. 
+
+I iot, however, make the error of reversing cause and 
+the good of the country was made possible precisely 
+fact that it was not forced on anyone as a moral goal 
+; it was merely an effect; the cause was a man’s right 
+ue his own good. It is this right — not its consequences 
+represents the moral justification of capitalism, 
+this right is incompatible with the intrinsic or the 
+vist theory of values, with the altruist morality and 
+•al premise. It is obvious which human attribute one 
+when one rejects objectivity; and, in view of capital- 
+;cord, it is obvious against which human attribute the 
+morality and the tribal premise stand united: against 
+nind, against intelligence — particularly against intelli- 
+ipplied to the problems of human survival, i.e., pro- 
+ability. 
+
+e altruism seeks to rob intelligence of its rewards, by 
+g that the moral duty of the competent is to serve the 
+
+
+
+30 Capitalism: The Unknown Ideal 
+
+incompetent and sacrifice themselves to anyone’s need — the 
+tribal premise goes a step further: it denies the existence of 
+intelligence and of its role in the production of wealth. 
+
+It is morally obscene to regard wealth as an anonymous, 
+tribal product and to talk about “redistributing” it. The view 
+that wealth is the result of some undifferentiated, collective 
+process, that we all did something and it’s impossible to tell 
+who did what, therefore some sort of equalitarian “distribu- 
+tion” is necessary — might have been appropriate in a primor- 
+dial jungle with a savage horde moving boulders by crude 
+physical labor (though even there someone had to initiate 
+and organize the moving). To hold that view in an industrial 
+society — where individual achievements are a matter of pub- 
+lic record — is so crass an evasion that even to give it the 
+benefit of the doubt is an obscenity. 
+
+Anyone who has ever been an employer or an employee, 
+or has observed men working, or has done an honest day’s 
+work himself, knows the crucial role of ability, of intelli- 
+gence, of a focused, competent mind — in any and all lines of 
+work, from the lowest to the highest. He knows that ability 
+or the lack of it (whether the lack is actual or volitional) 
+makes a difference of life-or-death in any productive process. 
+The evidence is so overwhelming — theoretically and practi- 
+cally, logically and “empirically,” in the events of history 
+and in anyone’s own daily grind — that no one can claim 
+ignorance of it. Mistakes of this size are not made inno- 
+cently. 
+
+When great industrialists made fortunes on a free market 
+(/.e., without the use of force, without government assistance 
+or interference), they created new wealth — they did not take 
+it from those who had not created it. If you doubt it, take a 
+look at the “total social product” — and the standard of liv- 
+ing — of those countries where such men are not permitted to 
+exist. 
+
+Observe how seldom and how inadequately the issue of 
+human intelligence is discussed in the writings of the tribal- 
+statist-altruist theoreticians. Observe how carefully today’s 
+advocates of a mixed economy avoid and evade any mention 
+of intelligence or ability in their approach to politico-eco- 
+nomic issues, in their claims, demands, and pressure-group 
+warfare over the looting of “the total social product.” 
+
+It is often asked: Why was capitalism destroyed in spite of 
+its incomparably beneficent record? The answer lies in the 
+fact that the lifeline feeding any social system is a culture’s 
+dominant philosophy and that capitalism never had a philo- 
+sophical base. It was the last and (theoretically) incomplete 
+
+
+
+31 
+
+
+What Is Capitalism? 
+
+product of an Aristotelian influence. As a resurgent tide of 
+mysticism engulfed philosophy in the nineteenth century, cap- 
+italism was left in an intellectual vacuum, its lifeline cut. 
+Neither its moral nature nor even its political principles had 
+ever been fully understood or defined. Its alleged defenders 
+regarded it as compatible with government controls ( i.e ., 
+government interference into the economy), ignoring the 
+meaning and implications of the concept of laissez-faire. 
+Thus, what existed in practice, in the nineteenth century, was 
+not pure capitalism, but variously mixed economies. Since 
+controls necessitate and breed further controls, it was the 
+statist clement of the mixtures that wrecked them; it was the 
+free, capitalist element that took the blame. 
+
+Capitalism could not survive in a culture dominated by 
+mysticism and altruism, by the soul-body dichotomy and the 
+tribal premise. No social system (and no human institution or 
+activity of any kind) can survive without a moral base. On 
+the basis of the altruist morality, capitalism had to be — and 
+was — damned from the start 5 
+
+For those who do not fully understand the role of philoso- 
+phy in politico-economic issues, I offer — as the clearest ex- 
+ample of today’s intellectual state — some further quotations 
+from the Encyclopaedia Britannica’s article on capitalism. 
+
+Few observers are inclined to find fault with capitalism 
+as an engine of production. Criticism usually proceeds 
+either from moral or cultural disapproval of certain 
+features of the capitalist system, or from the short-run 
+vicissitudes (crises and depressions) with which long- 
+run improvement is interspersed. [Italics mine.] 
+
+The "crises and depressions” were caused by government 
+interference, not by the capitalist system. But what was the 
+nature of the "moral or cultural disapproval”? The article 
+does not tell us explicitly, but gives one eloquent indica- 
+tion: 
+
+Such as they were, however, both tendencies and reali- 
+zations [of capitalism] bear the unmistakable stamp of 
+the businessman’s interests and still more the business- 
+man’s type of mind. Moreover it was not only policy 
+but the philosophy of national and individual life, the 
+scheme of cultural values, that bore that stamp. Its 
+materialistic utilitarianism, its naive confidence in prog- 
+
+• For a discussion of the philosophers' default in regard to capitalism, 
+*eo the title essay in my book For the New Intellectual. 
+
+
+
+32 Capitalism: The Unknown Ideal 
+
+ress of a certain type, its actual achievements in the 
+field of pure and applied science, the temper of its 
+artistic creations, may all be traced to the spirit of 
+rationalism that emanates from the businessman’s 
+office. [Italics mine.) 
+
+The author of the article, who is not “naive" enough to 
+believe in a capitalistic (or rational) type of progress, holds, 
+apparently, a different belief: 
+
+At the end of the middle ages western Europe stood 
+about where many underdeveloped countries stand in 
+the 20th century. (This means that the culture of the 
+Renaissance was about the equivalent of today’s Con- 
+go; or else, it means that people’s intellectual develop- 
+ment has nothing to do with economics.] In underdevel- 
+oped economies the difficult task of statesmanship is to 
+get under way a cumulative process of economic develop- 
+ment, for once a certain momentum is attained, further 
+advances appear to follow more or less automatically. 
+
+Some such notion underlies every theory of a planned 
+economy. It is on some such “sophisticated’’ belief that two 
+generations of Russians have perished, waiting for automatic 
+progress. 
+
+The classical economists attempted a tribal justification of 
+capitalism on the ground that it provides the best “alloca- 
+tion" of a community’s “resources.” Here are their chickens 
+coming home to roost: 
+
+The market theory of resource allocation within the 
+private sector is the central theme of classical econom- 
+ics. The criterion for allocation between the public and 
+private sectors is formally the same as in any other 
+resource allocation, namely that the community should 
+receive equal satisfaction from a marginal increment of 
+resources used in the public and private spheres. . . . 
+Many economists have asserted that there is substan- 
+tial, perhaps overwhelming, evidence that total welfare 
+in capitalist United States, for example, would be in- 
+creased by a reallocation of resources to the public 
+sector — more schoolrooms and fewer shopping centers, 
+more public libraries and fewer automobiles, more hos- 
+pitals and fewer bowling alleys. 
+
+This means that some men must toil all their lives without 
+adequate transportation (automobiles), without an adequate 
+number of places to buy the goods they need (shopping 
+
+
+
+33 
+
+
+What Is Capitalism? 
+
+centers), without the pleasures of relaxation (bowling alleys) 
+— in order that other men may be provided with schools, 
+libraries, and hospitals. 
+
+If you want to see the ultimate results and full meaning of 
+the tribal view of wealth — the total obliteration of the dis- 
+tinction between private action and government action, be- 
+tween production and force, the total obliteration of the 
+concept of “rights," of an individual human being’s reality, 
+and its replacement by a view of men as interchangeable 
+beasts of burden or “factors of production" — study the fol- 
+lowing: 
+
+Capitalism has a bias against the public sector for two 
+reasons. First, all products and income accrue [7] 
+initially to the private sector while resources reach the 
+public sector through the painful process of taxation. 
+Public needs are met only by sufferance of consumers 
+in their role as taxpayers [what about producers?], 
+whose political representatives are acutely conscious of 
+their constituents’ tender feelings [!J about taxation. 
+That people know better than governments what to do 
+with their income is a notion more appealing than the 
+contrary one, that people get more for their tax money 
+than for other types of spending. [By what theory of 
+values? By whose judgment?] . . . 
+
+Second, the pressure of private business to sell leads 
+to the formidable array of devices of modern salesman- 
+ship which influence consumer choice and bias con- 
+sumer values toward private consumption . . . [This 
+means that your desire to spend the money you earn 
+rather than have it taken away from you, is a mere 
+bias.] Hence, much private expenditure goes for wants 
+that arc not very urgent in any fundamental sense. 
+[Urgent — to whom? Which wants are “fundamental," 
+beyond a cave, a bearskin, and a chunk of raw meat7] 
+The corollary is that many public needs are neglected 
+because these superficial private wants, artificially gen- 
+erated, compete successfully for the same resources. 
+[Whose resources?] . . . 
+
+A comparison of resource allocation to the public 
+and private sectors under capitalism and under socialist 
+collectivism is illuminating. [It is.] In a collective 
+economy all resources operate in the public sector and 
+are available for education, defense, health, welfare, 
+and other public needs without any transfer through 
+taxation. Private consumption is restricted to the claims 
+that are permitted [by whom?] against the social prod- 
+uct, much as public services in a capitalist economy 
+
+
+
+34 
+
+
+Capitalism: The Unknown Ideal 
+
+are limited to the claims permitted against the private 
+sector. [Italics mine.] In a collective economy public 
+needs enjoy the same sort of built-in priority that 
+private consumption enjoys in a capitalist economy. In 
+the Soviet Union teachers are plentiful, but automobiles 
+are scarce, whereas the opposite condition prevails in 
+the United States. 
+
+Here is the conclusion of that article: 
+
+Predictions concerning the survival of capitalism are, in 
+part, a matter of definition. One sees everywhere in 
+capitalist countries a shifting of economic activity from 
+the private to the public sphere. ... At the same time 
+[after World War U] private consumption appeared 
+destined to increase in communist countries. [Such as 
+the consumption of wheat?] The two economic systems 
+seemed to be drawing closer together by changes con- 
+verging from both directions. Yet significant differences 
+in the economic structures still existed. It seemed rea- 
+sonable to assume that the society which invested more 
+in people would advance more rapidly and inherit the 
+future. In this important respect capitalism, in the eyes 
+of some economists, labours under a fundamental but 
+not inescapable disadvantage in competition with col- 
+lectivism. 
+
+The collectivization of Soviet agriculture was achieved by 
+means of a government-planned famine — planned and car- 
+ried out deliberately to force peasants into collective farms; 
+Soviet Russia’s enemies claim that fifteen million peasants 
+died in that famine; the Soviet government admits the death 
+of seven million. 
+
+At the end of World War n, Soviet Russia’s enemies 
+claimed that thirty million people were doing forced labor in 
+Soviet concentration camps (and were dying of planned mal- 
+nutrition, human lives being cheaper than food); Soviet Rus- 
+sia’s apologists admit to the figure of twelve million people. 
+
+This is what the Encyclopaedia Britannica refers to as 
+“investment in people.” 
+
+In a culture where such a statement is made with intellec- 
+tual impunity and with an aura of moral righteousness, the 
+guiltiest men are not the collectivists; the guiltiest men are 
+those who, lacking the courage to challenge mysticism or 
+altruism, attempt to bypass the issues of reason and morality 
+and to defend the only rational and moral system in man- 
+kind’s history — capitalism — on any grounds other than ra- 
+tional and moral. 
+
+
+
+</pre>        </div><!--/.container-->
+      </main>
+    </div><!--/#wrap-->
+    
+    <!-- Timing ...
+     rendered on: www23.us.archive.org
+ seconds diff sec               message   stack(file:line:function)
+=========================================================
+  0.0000   0.0000         petabox start   var/cache/petabox/petabox/www/sf/download.php:1:require
+                                             |common/ia:55:require_once
+                                             |setup.php:344:log
+  0.0009   0.0009      call get_redis()   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:372:get_json_obj
+                                             |Metadata.inc:1601:direct
+                                             |Caching/AbstractReactiveCache.inc:281:do_recompute
+                                             |AbstractReactiveCache.inc:392:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1642:_get_json_obj
+                                             |Metadata.inc:1766:log
+  0.0041   0.0033      redis_read start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:372:get_json_obj
+                                             |Metadata.inc:1601:direct
+                                             |Caching/AbstractReactiveCache.inc:281:do_recompute
+                                             |AbstractReactiveCache.inc:392:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1642:_get_json_obj
+                                             |Metadata.inc:1874:log
+  0.0252   0.0211     redis_read finish   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:325:getItem
+                                             |common/Item.inc:77:parseMetadata
+                                             |Item.inc:132:get_obj
+                                             |Metadata.inc:372:get_json_obj
+                                             |Metadata.inc:1601:direct
+                                             |Caching/AbstractReactiveCache.inc:281:do_recompute
+                                             |AbstractReactiveCache.inc:392:call_user_func_array
+                                             |./unknown:unknown:{closure}
+                                             |/var/cache/petabox/petabox/www/common/Metadata.inc:1642:_get_json_obj
+                                             |Metadata.inc:1876:log
+  0.0310   0.0058   begin session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:988:head
+                                             |common/Nav.inc:100:__construct
+                                             |Nav.inc:168:session_start
+                                             |Cookies.inc:61:log
+  0.0311   0.0001    done session_start   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:988:head
+                                             |common/Nav.inc:100:__construct
+                                             |Nav.inc:168:session_start
+                                             |Cookies.inc:67:log
+  0.4054   0.3743              bug dump   var/cache/petabox/petabox/www/sf/download.php:83:main_wrap
+                                             |download.php:104:main
+                                             |download.php:543:stream
+                                             |download.php:1020:footer
+                                             |common/setup.php:144:footer
+                                             |Nav.inc:1453:dump
+                                             |Bug.inc:120:log
+    -->
+    <script type="text/javascript">
+if (window.archive_analytics) {
+  var vs = window.archive_analytics.get_data_packets();
+  for (var i in vs) {
+    vs[i]['cache_bust']=Math.random();
+    vs[i]['server_ms']=405;
+    vs[i]['server_name']="www23.us.archive.org";
+      }
+
+  if ($(".more_search").size()>0) {
+    window.archive_analytics.send_scroll_fetch_base_event();
+  }
+}
+</script>
+      </div>
+  </body>
+</html>
+    
