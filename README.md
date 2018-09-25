@@ -1,20 +1,22 @@
-# Gray Davidson - Project Fletcher Writeup
-5/30/18
+# Replicating Author Style and Word Usage with Machine Learning
+
+## Gray Davidson
+## 5/30/18
 
 ## Project Design: 
 
-**In studying NLP I delved into the ideas of unique style and variable word meanings by creating custom word embeddings for a series of different authors.**  To do this I went through a series of steps.  I collected sets of text files for each author (or author group) requiring at least 2+ million words in the source corpus for each embedding.  I then loaded these into python and preprocessed them in an automated pipeline.  Then I used Gensim’s Word2Vec to create the embeddings after experimenting with the hyper-parameters.  Armed with the word embeddings I compared the different ways that authors use words.  Importantly these embeddings do not represent how they define the words (none of my authors misunderstands the word ‘tree’) but I do show that in their work these words play different roles from one author to another.  Results showed variation in how authors use certain words, ranging from the literal to the utilitarian.  Finally I investigated the mathematical viability of the embeddings, finding that indeed, relationships such as [Country >> Capital] were correctly captured.  
+**In studying NLP I delved into the ideas of unique style and variable word meanings by creating custom word embeddings for a series of different authors.**  To do this I went through a series of steps.  I collected sets of text files for each author (or author group) requiring at least 2+ million words in the source corpus for each embedding.  I then loaded these into python and preprocessed them in an automated pipeline.  Then I used Gensim’s Word2Vec to create the embeddings after experimenting with the hyper-parameters.  Armed with the word embeddings I compared the different ways that authors use words.  Importantly these embeddings do not represent how they define the words (none of my authors misunderstands the word ‘tree’) but I do show that in their work these words play different roles from one author to another.  Results showed variation in how authors use certain words, ranging from the literal to the utilitarian.  Finally I investigated the mathematical viability of the embeddings, finding that indeed, relationships such as [Country >> Capital] were correctly captured even in fictional spaces.  
 
 This project also had several other components which met with mixed success: 
 	— Several non-trivial pre-processing steps
-	— Implementations of PCA and K-means which did not prove fruitful
+	— Implementations of PCA and K-means clustering which did not prove fruitful
 	— LDA implementation which produced successful but superficial results.  
 	— An attempted embedding on holy texts which was discontinued due to issues with special characters
 	— Use of an AWS P3-2X instance
-	— I tested one of three other gensim embedding creators, FastText, which returned similar results (see presentation appendix).
+	— I tested one of three other gensim embedding creators, FastText, which returned similar (though distinct) results (see presentation appendix).
 
 ## Tools:
-The **primary tools** of this project were gensim libraries: (Word2Vec, FastText, Phrases/Phraser, simple_preprocess, remove_stopwords).  **Additional tools** were SKlearn’s LDA, PCA and K-Means.  I **also tackled** AWS, successfully running my models in a Jupyter notebook interface on a P3 instance which I configured according to Chris Albon’s tutorial.  (shout out to Abed who helped me through some snags in this process).  
+The **primary tools** of this project were gensim libraries: (Word2Vec, FastText, Phrases/Phraser, simple_preprocess, remove_stopwords).  **Additional tools** were SKlearn’s LDA, PCA and K-Means.  I **also tackled** AWS, successfully running my models in a Jupyter notebook interface on a P3 instance which I configured according to Chris Albon’s tutorial.  
 
 I will go into greater depth below speaking about **Word2Vec,**  **FastText** and **LDA**.  
 
@@ -37,6 +39,5 @@ The heaviest lifting was done by **Word2Vec** which takes in a list of lists of 
 
 Interestingly I noticed that gensim **FastText** surfaced many more bigrams than Word2Vec.  FastText was also much more reliant on the structure of a word (i.e. “good” was though to be similar to “Goodwin” and “Goodbye” for this embedding creator as opposed to “better” which would have been more typical of Word2Vec).  
 
-## Lessons Learned:
-What I attempted to do went fairly well in this project.  I was happy to meet with no major obstacles in code and to end up with interesting results!  The lesson here I believe is that there are always more directions to go and to be judicious in assigning one’s energy.  I would like to go forward looking at new datasets, figuring out how to communicate between embeddings and investigating the three other embedding creators in gensim, but this was far too much for a two-week project.  I also learned that you should always turn of your P3 instance immediately after using it.  :( 
-#metis/projects/fletcher
+## Future Directions:
+ I would like to go forward looking at new datasets, figuring out how to communicate between embeddings and investigating the three other embedding creators in gensim.  
